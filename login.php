@@ -1,7 +1,7 @@
 <?php
 
 $hn ="localhost";
-$db= "ErrorLog";
+$db= "student";
 $un ='root';
 $pw=""
 ?>
